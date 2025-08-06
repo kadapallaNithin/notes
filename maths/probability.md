@@ -1,6 +1,7 @@
-<style>
+<!-- <style>
     details > summary * { display : inline; }
-</style>
+</style> -->
+
 
 ## Interesting Problems
 
@@ -43,8 +44,7 @@
     $P(X_{in}) = (1 - 3/4)^{n-1}(1/8) = (1/4)^{n-1}(1/8)$
 
     $P(Die\ outcome = 1) = \sum P(X_{1j}) = \sum (1/4)^{j-1}(1/8)$\
-    $ = (1/8)/(1-1/4)$
-    *(Using sum of infinite G.P)*\
+    $ = (1/8)/(1-1/4)$ *(Using sum of infinite G.P)*\
     $ = (1/8)/(3/4) = 1/6$\
     This is satisfied for all 1 to 6
 </details>
